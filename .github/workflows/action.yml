@@ -22,6 +22,6 @@ jobs:
         python-version: 3.9
         
     - name: Run Leap Year Checker
-      run: python leap_year_checker.py  
+      run: python leap.py  
 
 
