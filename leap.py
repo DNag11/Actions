@@ -5,7 +5,7 @@ def is_leap_year(year):
         return False
 
 # Input year from the user
-year = 2024
+year = 2030
 
 if is_leap_year(year):
     print(year, "is a leap year.")
